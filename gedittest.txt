@@ -1,2 +1,4 @@
 I am testind whether create a file on the direction using the command "gedit" compared whit "vim".
+the result:
+the command "gedit" would create another similar file on the direction.
 
